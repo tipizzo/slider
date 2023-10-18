@@ -1,6 +1,7 @@
 import React from "react";
 import leftChevron from "../../assets/left-arrow.svg";
 import rightChevron from "../../assets/right-arrow.svg";
+import "./slider.css";
 
 function Slider() {
     return(
